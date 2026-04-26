@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Thu Ha Phi / PhD"
+title                    : "Thu Ha Phi, PhD"
 title_separator          : "-"
 name                     : &name "Thu Ha Phi"
 description              : &description "Thu Ha Phi's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,11 +24,11 @@ repository               : "https://chionanthusretusus.github.io/thuhaphi.github
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Thu Ha Phi"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Paris, France"
+  employer         : "University Paris Nanterre"
   uri              : # URL
   email            : "none@example.org" 
 
