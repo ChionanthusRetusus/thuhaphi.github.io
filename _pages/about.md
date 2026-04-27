@@ -8,9 +8,10 @@ redirect_from:
 ---
 Hi there, I'm Thu Ha 👋
 
-In 2026, I obtained the PhD's degree in Computer Engineering and Signal Processing at Université Paris Nanterre, France with the thesis entitled "Learning conditional correlation graphs with Riemannian Optimization", supervised by Prof.[Arnaud Breloy](https://abreloy.github.io/), Dr.[Florent Bouchard](https://flbouchard.github.io/), Asso.Prof.[Alexandre Hippert-Ferrer](https://ahippert.github.io/), and funded by Agence nationale de la recherche([ANR](https://anr.fr/)). In 2021, I obtained the jointly Master's degree in Computer Science, specializing in Data Science and Engineering at Eurecom and Institut Mines-Télécom. In 2018, I obtained the Bachelor's degree in Electronics and Telecommunications at University of Engineering and Technology, Vietnam National University (UET-VNU). 
+In 2026, I obtained the PhD's degree in Computer Engineering and Signal Processing at Université Paris Nanterre, France, with the thesis entitled "Learning conditional correlation graphs with Riemannian Optimization", supervised by Prof. [Arnaud Breloy](https://abreloy.github.io/), Dr. [Florent Bouchard](https://flbouchard.github.io/), Asso.Prof. [Alexandre Hippert-Ferrer](https://ahippert.github.io/), and funded by Agence nationale de la recherche ([ANR](https://anr.fr/)). In 2021, I obtained the jointly Master's degree in Computer Science, specializing in Data Science and Engineering at Eurecom and Institut Mines-Télécom. In 2018, I obtained the Bachelor's degree in Electronics and Telecommunications at University of Engineering and Technology, Vietnam National University, Hanoi (UET-VNU). 
 
- 
+My research interest is Graph Learning, Statistical Signal Processing, Optimiztion and Machine Learning, with applications to time-series data (financial, EEG, etc.,). 
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
