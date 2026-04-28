@@ -21,3 +21,4 @@ News
 - On 6 June 2024, I present our paper [*Leveraging Standardization in Graph Learning*](https://ieeexplore.ieee.org/document/10715401) in Graph Learning day, in the frame of GdR IASIS. Link to the even: [Graph Learning's day 2024](https://gdr-iasis.cnrs.fr/reunions/apprentissage-de-graphes/).
 - On 22 May 2024, our paper *Leveraging Standardization in Graph Learning* are accepted on European Signal Processing Conference (EUSIPCO 2024), which will be presented on oral section in Lyon, France on 28 August 2024.
 - On 13 December 2023, our paper *Robust low-rank correlation fitting* are accepted on IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2024), which will be presented on poster section in Seoul, Korea, on 19 April 2024.
+- On December 2022, I start my PhD at University Paris Nanterre, working on the topic of Graph Learning, which is funded by Agence nationale de la recherche  ([ANR](https://anr.fr/)).
