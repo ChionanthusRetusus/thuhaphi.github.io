@@ -16,7 +16,7 @@ Beyond science, I also enjoy writing and composing poetry inspired by spirituali
 
 News
 ======
-- On 2 April 2026, I defend my PhD thesis, entitled *Learning Conditional Correlation Graphs with Riemannian Optimization*, at Conservatoire national des Arts et Métiers, Paris, France. My thesis is funded by Agence nationale de la recherche ([ANR](https://anr.fr/)).
+- On 2 April 2026, I defend my PhD thesis, entitled *Learning Conditional Correlation Graphs with Riemannian Optimization*, at Conservatoire national des Arts et Métiers, Paris, France. My thesis is funded by Agence nationale de la recherche ([ANR]([https://anr.fr/](https://anr.fr/Project-ANR-21-CE23-0038))).
 - On 12 Januray 2026, our journal article [*Leveraging Low-rank Factorizations of Conditional Correlation Matrices in Graph Learning*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11360769) are accepted on IEEE Transaction on Signal Processing. 
 - On 6 June 2024, I present our paper [*Leveraging Standardization in Graph Learning*](https://ieeexplore.ieee.org/document/10715401) in Graph Learning day, in the frame of GdR IASIS. Link to the even: [Graph Learning's day 2024](https://gdr-iasis.cnrs.fr/reunions/apprentissage-de-graphes/).
 - On 22 May 2024, our paper *Leveraging Standardization in Graph Learning* are accepted on European Signal Processing Conference (EUSIPCO 2024), which will be presented on oral section in Lyon, France on 28 August 2024.
