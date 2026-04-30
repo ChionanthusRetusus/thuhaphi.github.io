@@ -12,7 +12,9 @@ In 2026, I obtained the PhD's degree in Computer Engineering and Signal Processi
 
 My research interest is Graph Learning, Statistical Signal Processing, Optimiztion and Machine Learning, with applications to time-series data (financial, EEG, etc.,). 
 
-Beyond science, I also enjoy writing and composing poetry inspired by spirituality and Eastern philosophy, particularly Taoism and Buddhism. To me, science helps us explore and explain the tangible world, while philosophy and spirituality allow us to delve deeper into the intangible realm, where we can truly discover our inner self. I strongly believe that the tangible and the intangible are two inseparable aspects of the same essence-our soul. Ultimately, all that we do-our work and our research-is, in one way or another, part of a broader journey toward holistic growth and evolution. You can find and read my poems in the [Guide section](https://chionanthusretusus.github.io/thuhaphi.github.io//markdown/). They were originally written in Vietnamese, my native language. I have made an effort to translate them into as many languages as possible, with English being the primary version.
+Beyond science, I also enjoy writing and composing poetry inspired by spirituality and Eastern philosophy, particularly Taoism and Buddhism. To me, science helps us explore and explain the tangible world, while philosophy and spirituality allow us to delve deeper into the intangible realm, where we can truly discover our inner self. I strongly believe that the tangible and the intangible are two inseparable aspects of the same essence-our soul. Ultimately, all that we do-our work and our research-is, in one way or another, part of a broader journey toward holistic growth and evolution. You can find and read my poems in the [Intangible realm](https://chionanthusretusus.github.io/thuhaphi.github.io//markdown/). They were originally written in Vietnamese, my native language. I have made an effort to translate them into as many languages as possible, with English being the primary version.
+
+<u> Contact me via email for any matter related to research or Eastern philosophy. <u> 
 
 News
 ======
