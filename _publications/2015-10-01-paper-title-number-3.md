@@ -1,7 +1,7 @@
 ---
 title: "Leveraging Standardization in Graph Learning"
 collection: publications
-category: conference
+category: conferences
 permalink: https://ieeexplore.ieee.org/abstract/document/10715401
 date: 2024-10-23
 venue: '32nd European Signal Processing Conference (EUSIPCO 2024)'
