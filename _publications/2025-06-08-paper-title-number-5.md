@@ -1,12 +1,11 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Dengue Fever: From Extreme Climates to Outbreak Prediction"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
+permalink: https://ieeexplore.ieee.org/abstract/document/10027600
+date: 2023-02-01
+venue: '2022 IEEE International Conference on Data Mining (ICDM)'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10027600'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
