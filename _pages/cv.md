@@ -42,10 +42,10 @@ Teaching
 Grants and Awards
 ======
 * 2022-2025: Fully funded PhD thesis from the French National Research Agency (ANR)
-* 2022: Full doctoral scholarship (£135,667 tuition and stipend) from the Engineering and Physical Sciences Research Council (EPSRC), UK, for a 42-month PhD program at Queen’s University Belfast
-* 2022: Full scholarship under the EUTOPIA Doctoral Program (4 years), jointly between CY Cergy Paris University and Vrije Universiteit Brussel
+* 2022: Full doctoral scholarship (£135,667 tuition and stipend) from the Engineering and Physical Sciences Research Council (EPSRC), United Kingdom, for a 42-month PhD program at Queen’s University Belfast
+* 2022: Full scholarship under the EUTOPIA Doctoral Program (4 years), jointly between CY Cergy Paris University, France and Vrije Universiteit Brussel, Belgium
 * 2021: Research grant from the Monaco Government for a tsunami simulation project
-* 2019: Master’s scholarship from Institut Mines-Télécom and EURECOM
+* 2019: Master’s scholarship from Institut Mines-Télécom and EURECOM, France
 
 Academic Service
 ======
