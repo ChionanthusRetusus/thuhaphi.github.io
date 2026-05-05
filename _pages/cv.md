@@ -11,35 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Ph.D in Computer Enginnering and Signal Processing, Université Paris Nanterre, France, 2026
+* M.S. in Computer Science, Eurecom & Institut Mines-Télécom, France, 2021
+* B.S. in Electrical Engineering and Telecomunications, University of Engineering and Technology, Vietnam National Univeristy (UET-VNU), 2018
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Research
+* Statistics & Optimization
+* Programming & System Design
 
 Publications
 ======
@@ -59,6 +39,15 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Grants and Awards
 ======
-* Currently signed in to 43 different slack teams
+* 2022-2025: Fully funded PhD thesis from the French National Research Agency (ANR)
+* 2022: Full doctoral scholarship (£135,667 tuition and stipend) from the Engineering and Physical Sciences Research Council (EPSRC), UK, for a 42-month PhD program at Queen’s University Belfast
+* 2022: Full scholarship under the EUTOPIA Doctoral Program (4 years), jointly between CY Cergy Paris University and Vrije Universiteit Brussel
+* 2021: Research grant from the Monaco Government for a tsunami simulation project
+* 2019: Master’s scholarship from Institut Mines-Télécom and EURECOM
+
+Academic Service
+======
+* Member, IEEE Student Member
+* Reviewer, IEEE Statistical Signal Processing (SSP) Workshop & IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
