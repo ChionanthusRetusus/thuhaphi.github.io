@@ -1,52 +1,30 @@
 /* ==========================================================================
    BASE ELEMENTS
    ========================================================================== */
-// html {
-//   /* sticky footer fix */
-//   position: relative;
-//   min-height: 100%;
-// }
-
-// body {
-//   /* Set via _themes.scss */
-//   color: var(--global-text-color);
-//   background-color: var(--global-bg-color);
-
-//   margin: 0;
-//   padding: $masthead-height 0 0;
-//   padding-bottom: 9em;
-//   font-family: $global-font-family;
-//   line-height: 1.5;
-
-//   &.overflow--hidden {
-//     /* when primary navigation is visible, the content in the background won't scroll */
-//     overflow: hidden;
-//   }
-// }
-
-html, body {
-  height: 100%;
-  margin: 0;
+html {
+  /* sticky footer fix */
+  position: relative;
+  min-height: 100%;
 }
 
 body {
-  display: flex;
-  flex-direction: column;
-
+  /* Set via _themes.scss */
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
 
+  margin: 0;
   padding: $masthead-height 0 0;
-
+  padding-bottom: 9em;
   font-family: $global-font-family;
   line-height: 1.5;
 
-  min-height: 100vh;
-
   &.overflow--hidden {
+    /* when primary navigation is visible, the content in the background won't scroll */
     overflow: hidden;
   }
 }
+
+
 
 h1, h2, h3, h4, h5, h6 {
   margin: 2em 0 0.5em;
