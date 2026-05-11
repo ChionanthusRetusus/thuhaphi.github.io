@@ -41,3 +41,18 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+
+.page {
+  min-height: calc(100vh - 150px);
+}
+
+.page__footer {
+  position: relative;
+  clear: both;
+  z-index: 0;
+}
+
+.sidebar {
+  padding-bottom: 120px;
+}
