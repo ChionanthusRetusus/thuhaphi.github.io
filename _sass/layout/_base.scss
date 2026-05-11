@@ -366,13 +366,4 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
     }
   }
 
-.initial-content,
-.page {
-  flex: 1 0 auto;
-}
 
-.page__footer {
-  flex-shrink: 0;
-  position: relative;
-  z-index: 0;
-}
