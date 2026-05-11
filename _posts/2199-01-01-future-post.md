@@ -1,11 +1,10 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+title: 'Graph Learning's tutorial'
+date: 2026-05-11
+permalink: /posts/2026/05/graph-learning-tutorial/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - Gaussian Graphical Models
+  - Conditional correlation 
+  - Graph Signal Processing
 ---
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
