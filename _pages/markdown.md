@@ -1,6 +1,6 @@
 ---
-permalink: /Intangible Realm/
-title: "Markdown"
+permalink: /markdown/
+title: "Intangile Realm"
 author_profile: true
 redirect_from: 
   - /md/
