@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Intangile Realm"
+title: "I love proposing poems, so welcome to my collection ! "
 author_profile: true
 redirect_from: 
   - /md/
@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 {% include toc %}
-I love proposing poems, so welcome to my collection ! 
 
 ## Vietnamese version
 
