@@ -19,7 +19,7 @@ Thế nhân chẳng vô tình
 
 Tứ kì xoay vần miết
 
-Vô thường chẳng ngán chi
+Vô thường chẳng ngán chi.
 
 
 
@@ -29,7 +29,7 @@ Ngỡ vạn niên trường cửu
 
 Hỉ nộ tham ái ố
 
-Phủ trọn kiếp nhân sinh
+Phủ trọn kiếp nhân sinh.
 
 
 
@@ -40,4 +40,31 @@ Tưởng đâu chẳng sinh diệt
 Chư Thiên một chớp mắt
 
 Giấc mộng trần biến tan.
+
+
+### English translation ###
+
+Falling flowers carry meaning,
+
+Yet the human world is never without feeling.
+
+The four seasons turn unceasingly,
+
+Impermanence fears nothing at all.
+
+Sixty years make but one lifetime,
+
+Mistaken for eternity unending.
+
+Joy, anger, greed, love, and hatred
+
+Envelop the whole of human existence.
+
+In a realm of shadowed stillness,
+
+One imagines there is neither birth nor decay.
+
+But to the Heavenly Ones, in a single blink,
+
+The dream of the mortal world dissolves away.
 
