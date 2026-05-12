@@ -35,7 +35,7 @@ Giấc mộng trần biến tan.
 
 ## English translation
 
-### Human existance ###
+### Human existence ###
 
 Falling flowers carry meaning,  
 Yet the human world is never without feeling.  
