@@ -26,7 +26,6 @@ Please cite me as **Thu Ha Phi**, if you want to use my creations ^^
 | Đuốc kia vẫn sáng, soi hầm u minh| That torch still burns, illuminating the caverns of darkness |
 | Đạo sâu vốn chẳng hữu hình | The Way is profound and without visible form |
 | Chẳng cao ngạo cũng chẳng tình tư riêng | Neither arrogant, nor bound by selfish affection. |
-
 | | |
 |Nhân thời xuân mới tháng giêng | And now, in the first month of the new spring, |
 |Chúc cho bách họ mọi miền thảnh thơi. | May all people across every land find peace and ease. |
