@@ -9,9 +9,7 @@ redirect_from:
 
 {% include toc %}
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## Vietnamese version
 
 ### Nhân sinh
 
@@ -34,11 +32,10 @@ Tưởng đâu chẳng sinh diệt
 Chư Thiên một chớp mắt  
 Giấc mộng trần biến tan.  
 
-</td>
 
-<td width="50%" valign="top">
+## English translation
 
-### Human Existence
+### Human existance ###
 
 Falling flowers carry meaning,  
 Yet the human world is never without feeling.  
@@ -57,8 +54,4 @@ Envelop the whole of human existence.
 In a realm of shadowed stillness,  
 One imagines there is neither birth nor decay.  
 But to the Heavenly Ones, in a single blink,  
-The dream of the mortal world dissolves away.  
-
-</td>
-</tr>
-</table>
+The dream of the mortal world dissolves away.
