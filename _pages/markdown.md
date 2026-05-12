@@ -9,9 +9,9 @@ redirect_from:
 
 {% include toc %}
 
-## Nhân sinh - Human Existence (original Vietnamese version - English translation) ## 
+## Episode 1: Nhân sinh - Human Existence ## 
 
-| **Nhân sinh** | **Human Existence** |
+| **Original Vietnamese version** | **English translation** |
 |---|---|
 | Hoa rơi là hữu ý | Falling flowers carry meaning, |
 | Thế nhân chẳng vô tình | Yet the human world is never without feeling. |
