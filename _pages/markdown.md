@@ -9,40 +9,19 @@ redirect_from:
 
 {% include toc %}
 
-## Vietnamese version
-
-### Nhân sinh
-
-Hoa rơi là hữu ý  
-Thế nhân chẳng vô tình  
-Tứ kì xoay vần miết  
-Vô thường chẳng ngán chi.  
-<br>
-Lục thập niên một đời  
-Ngỡ vạn niên trường cửu  
-Hỉ nộ tham ái ố  
-Phủ trọn kiếp nhân sinh.  
-<br>
-Ở một cõi u minh  
-Tưởng đâu chẳng sinh diệt  
-Chư Thiên một chớp mắt  
-Giấc mộng trần biến tan.  
-
-## English translation
-
-### Human existence ###
-
-Falling flowers carry meaning  
-Yet the human world is never without feeling  
-The four seasons turn unceasingly  
-Impermanence fears nothing at all.  
-<br>
-Sixty years make but one lifetime  
-Mistaken for eternity unending  
-Joy, anger, greed, love, and hatred  
-Envelop the whole of human existence.  
-<br>
-In a realm of shadowed stillness<br>
-One imagines there is neither birth nor decay  
-But to the Heavenly Ones, in a single blink  
-The dream of the mortal world dissolves away.
+| **Nhân sinh** | **Human Existence** |
+|---|---|
+| Hoa rơi là hữu ý | Falling flowers carry meaning, |
+| Thế nhân chẳng vô tình | Yet the human world is never without feeling. |
+| Tứ kì xoay vần miết | The four seasons turn unceasingly, |
+| Vô thường chẳng ngán chi. | Impermanence fears nothing at all. |
+|  |  |
+| Lục thập niên một đời | Sixty years make but one lifetime, |
+| Ngỡ vạn niên trường cửu | Mistaken for eternity unending. |
+| Hỉ nộ tham ái ố | Joy, anger, greed, love, and hatred |
+| Phủ trọn kiếp nhân sinh. | Envelop the whole of human existence. |
+|  |  |
+| Ở một cõi u minh | In a realm of shadowed stillness, |
+| Tưởng đâu chẳng sinh diệt | One imagines there is neither birth nor decay. |
+| Chư Thiên một chớp mắt | But to the Heavenly Ones, in a single blink, |
+| Giấc mộng trần biến tan. | The dream of the mortal world dissolves away. |
