@@ -42,7 +42,7 @@ Mistaken for eternity unending
 Joy, anger, greed, love, and hatred  
 Envelop the whole of human existence.  
 <br>
-In a realm of shadowed stillness \\
+In a realm of shadowed stillness<br>
 One imagines there is neither birth nor decay  
 But to the Heavenly Ones, in a single blink  
 The dream of the mortal world dissolves away.
