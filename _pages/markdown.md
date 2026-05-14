@@ -32,24 +32,24 @@ Please cite me as **Thu Ha Phi**, if you want to use my creations ^^
 |Chúc cho bách họ mọi miền thảnh thơi. | May all people across every land find peace and ease. |
 
 
-## Episode 2: Nhân sinh - Human Existence ## 
+## Episode 2: Nhân sinh - Human Existence - l’existence humaine ## 
 
-| **Original Vietnamese version** | **English translation** |
+| **Original Vietnamese version** | **English translation** | **French translation**|
 |---|---|
-| Hoa rơi là hữu ý | Falling flowers carry meaning |
-| Thế nhân chẳng vô tình | Yet the human world is never without orchestrating |
-| Tứ kì xoay vần miết | The four seasons turn unceasingly |
-| Vô thường chẳng ngán chi. | Impermanence fears nothing at all. |
-|  |  |
-| Lục thập niên một đời | Sixty years make but one lifetime |
-| Ngỡ vạn niên trường cửu | Mistaken for eternity unending |
-| Hỉ nộ tham ái ố | Joy, anger, greed, love, and hatred |
-| Phủ trọn kiếp nhân sinh. | Envelop the whole of human existence. |
-|  |  |
-| Ở một cõi u minh | In a realm of shadowed stillness |
-| Tưởng đâu chẳng sinh diệt | One imagines there is neither birth nor decay |
-| Chư Thiên một chớp mắt | But to the Heavenly Ones, in a single blink |
-| Giấc mộng trần biến tan. | The dream of the mortal world dissolves away. |
+| Hoa rơi là hữu ý | Falling flowers carry meaning | Les fleurs qui tombent portent un sens |
+| Thế nhân chẳng vô tình | Yet the human world is never without orchestrating | Et le monde des hommes n’est jamais sans orchestration secrète |
+| Tứ kì xoay vần miết | The four seasons turn unceasinglyun| Les quatre saisons tournent sans relâche |
+| Vô thường chẳng ngán chi. | Impermanence fears nothing at all. | L’impermanence ne craint absolument rien.|
+|  |  |  |
+| Lục thập niên một đời | Sixty years make but one lifetime | Soixante années font une vie |
+| Ngỡ vạn niên trường cửu | Mistaken for eternity unending | Que l’on croit durer dix mille ans|
+| Hỉ nộ tham ái ố | Joy, anger, greed, love, and hatred | Joie, colère, désir, amour et haine |
+| Phủ trọn kiếp nhân sinh. | Envelop the whole of human existence. | Recouvrent toute l’existence humaine. |
+|  |  | |
+| Ở một cõi u minh | In a shadowed realm untouched by enlightenment | Dans un royaume obscur privé d’éveil |
+| Tưởng đâu chẳng sinh diệt | One imagines there is neither birth nor decay | On imagine qu’il n’existe ni naissance ni disparition |
+| Chư Thiên một chớp mắt | But to the Heavenly Ones, in a single blink | Mais pour les Êtres célestes, en un seul battement d’instant |
+| Giấc mộng trần biến tan. | The dream of the mortal world dissolves away. | Le rêve du monde terrestre se dissout. |
 
 
 
