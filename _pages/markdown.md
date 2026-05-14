@@ -11,25 +11,25 @@ redirect_from:
 
 Please cite me as **Thu Ha Phi**, if you want to use my creations ^^ 
 
-## Episode 1: Mừng Xuân Bính Ngọ 2026 - Celebrating the Spring of Fire Horse 2026 ## 
+## Episode 1: Mừng Xuân Bính Ngọ 2026 - Celebrating the Spring of Fire Horse 2026 - Célébration du printemps de l’année du Cheval de Feu ## 
 
-| **Original Vietnamese version** | **English translation** |
-|---|---|
-| Tân Xuân Bính Ngọ niên kì | In the new spring of the year "Fire Horse" |
-| Cửu thiên vận hỏa đương thì lâm quan | The fire of the Ninth Heaven descends at its appointed hour |
-| Xét soi bách họ thế gian | It gazes upon the countless people of the world: |
-| Ai thời dưỡng đức, ai toan lợi mình | Who cultivates virtue, and who seeks only self-interest?|
-| Nhân quả như bóng theo hình | Cause and effect follow like shadow follows form |
-| Một ly không trật, công bình trước nay | Never mistaken by even the slightest measure, eternally just |
-| Bách gia trăm họ có hay | Do the myriad households truly understand? |
-| Đức tin là đuốc, dạn dày chí tâm | Faith is the torch, steadfast through all trials of the heart |
-| Dầu cho trăm bể thăng trầm | Though a hundred seas may rise and fall in turmoil |
-| Đuốc kia vẫn sáng, soi hầm u minh| That torch still burns, illuminating the caverns of darkness |
-| Đạo sâu vốn chẳng hữu hình | The Way is profound and without visible form |
-| Chẳng cao ngạo cũng chẳng tình tư riêng. | Neither arrogant, nor bound by selfish affection. |
-| | |
-|Nhân thời xuân mới tháng giêng | And now, in the first month of the new spring, |
-|Chúc cho bách họ mọi miền thảnh thơi. | May all people across every land find peace and ease. |
+| **Original Vietnamese version** | **English translation** | **French translation** |
+|---|---|---|
+| Tân Xuân Bính Ngọ niên kì | In the new spring of the year "Fire Horse" | Nouvelle année du Printemps du du Cheval de Feu |
+| Cửu thiên vận hỏa đương thì lâm quan | The fire of the Ninth Heaven descends at its appointed hour | Le neuvième ciel, Feu en cet instant, apogée du temps|
+| Xét soi bách họ thế gian | It gazes upon the countless people of the world: | Il observe les cent peuples du monde |
+| Ai thời dưỡng đức, ai toan lợi mình | Who cultivates virtue, and who seeks only self-interest?| Qui cultive la vertu, qui ne cherche que son profit |
+| Nhân quả như bóng theo hình | Cause and effect follow like shadow follows form | Le karma suit l’homme comme son ombre |
+| Một ly không trật, công bình trước nay | Never mistaken by even the slightest measure, eternally just | Sans jamais dévier d’un seul instant, justice immuable depuis toujours |
+| Bách gia trăm họ có hay | Do the myriad households truly understand? | Ô vous, cent familles et peuples innombrables, le savez-vous ? |
+| Đức tin là đuốc, dạn dày chí tâm | Faith is the torch, steadfast through all trials of the heart | La foi est une torche, et la volonté en est la flamme |
+| Dầu cho trăm bể thăng trầm | Though a hundred seas may rise and fall in turmoil | Même au milieu des cent mers de fluctuations et de bouleversements |
+| Đuốc kia vẫn sáng, soi hầm u minh| That torch still burns, illuminating the caverns of darkness | Cette torche demeure allumée, éclairant les ténèbres profondes |
+| Đạo sâu vốn chẳng hữu hình | The Way is profound and without visible form | La Voie profonde n’a point de forme |
+| Chẳng cao ngạo cũng chẳng tình tư riêng. | Neither arrogant, nor bound by selfish affection. | Ni orgueil, ni attachement personnel |
+| | | |
+|Nhân thời xuân mới tháng giêng | And now, in the first month of the new spring, | En ce nouveau printemps du premier mois lunaire |
+|Chúc cho bách họ mọi miền thảnh thơi. | May all people across every land find peace and ease. | Je souhaite à tous les peuples, en tous lieux, paix et sérénité.|
 
 
 ## Episode 2: Nhân sinh - Human Existence - l’existence humaine ## 
