@@ -38,7 +38,7 @@ Please cite me as **Thu Ha Phi**, if you want to use my creations ^^
 |---|---|---|
 | Hoa rơi là hữu ý | Falling flowers carry meaning | Les fleurs qui tombent portent un sens |
 | Thế nhân chẳng vô tình | Yet the human world is never without orchestrating | Et le monde des hommes n’est jamais sans orchestration secrète |
-| Tứ kì xoay vần miết | The four seasons turn unceasinglyun| Les quatre saisons tournent sans relâche |
+| Tứ kì xoay vần miết | The four seasons turn unceasingly| Les quatre saisons tournent sans relâche |
 | Vô thường chẳng ngán chi. | Impermanence fears nothing at all. | L’impermanence ne craint absolument rien.|
 |  |  |  |
 | Lục thập niên một đời | Sixty years make but one lifetime | Soixante années font une vie |
