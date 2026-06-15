@@ -53,6 +53,8 @@ Please cite me as **Thu Ha Phi**, if you want to use my creations ^^
 
 
 ## Episode 3: Tỉnh thức - Awakening - L'Éveil ##
+
+| **Original Vietnamese version** | **English translation** | **French translation**|
 |---|---|---|
 | Tiền trần danh sắc muôn vạn tướng | Worldly wealth and fleeting fame take countless forms| Les richesses, les honneurs et les formes du monde |
 | Đa đoan biến hiện sắc thanh hương | Appearing and dissolving through sights, sounds, scents, and charms| Se déclinent en myriades d’apparences vagabondes |
