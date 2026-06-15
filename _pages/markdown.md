@@ -52,4 +52,24 @@ Please cite me as **Thu Ha Phi**, if you want to use my creations ^^
 | Giấc mộng trần biến tan. | The dream of the mortal world dissolves away. | Le rêve du monde terrestre se dissout. |
 
 
+## Episode 3: Tỉnh thức - Awakening - L'Éveil ##
+|---|---|---|
+| Tiền trần danh sắc muôn vạn tướng | Worldly wealth and fleeting fame take countless forms| Les richesses, les honneurs et les formes du monde |
+| Đa đoan biến hiện sắc thanh hương | Appearing and dissolving through sights, sounds, scents, and charms| Se déclinent en myriades d’apparences vagabondes |
+| Tưởng cảnh là ta, ta là cảnh | Mistaking the world for self, the self for worldly scene| Prenant le monde pour soi, et soi pour le monde | 
+| Nên đọa luân hồi đã mấy chương. |Thus wandering through samsara, age after age unseen. | On chute dans le samsara, vie après vie sans nombre. |
+| | | |
+| Kiến nhục, kiến vinh, kiến vô thường| Having witnessed disgrace, honor, and impermanence alike | Ayant vu l’humiliation, la gloire et l’impermanence |
+| Lập chí tu hành, đoạn phiền thương| I vow to walk the path and sever sorrow at its spike | Je fais vœu de cultiver la Voie, tranchant toute souffrance |
+| Danh tình lợi lạc, ta buông xuống| Fame, love, gain and pleasure, I lay them down | Renommée, amour, profit et réjouissance, je m'en détache| 
+| Chỉ mang thanh tịnh, lội ngược đường. | Bearing only purity, I tread against the worldly tide.| Portant la pureté, je remonte le courant du monde.|
+| | | |
+| Bồ đề tâm tỏa khắp mười phương | The Bodhi heart now radiates throughout the ten directions wide | L’esprit d’Éveil rayonne aux dix directions infinies |
+| Niết bàn đâu chỉ ở Tây phương| Nirvana is not found in the West alone to abide | Le Nirvana ne réside pas seulement en l’Occident béni | 
+| Chuông thanh đã điểm, duyên đã trọn| The bell of clarity has sounded, karmic ties are through | La cloche limpide a sonné, les causes sont accomplies |
+| Tỉnh giấc mộng dài đã mấy chương.| Awakening from a long dream that spanned so many lives anew. | Du long rêve des existences, l’âme enfin s’est éveillée. |
+
+
+
+
 
