@@ -10,7 +10,7 @@ Hi there, I'm Thu Ha 👋
 
 In 2026, I obtained the PhD's degree in Computer Engineering and Signal Processing at Université Paris Nanterre, France, with the thesis entitled "Learning conditional correlation graphs with Riemannian Optimization", supervised by Prof. [Arnaud Breloy](https://abreloy.github.io/), Dr. [Florent Bouchard](https://flbouchard.github.io/), Asso.Prof. [Alexandre Hippert-Ferrer](https://ahippert.github.io/), and funded by Agence nationale de la recherche ([ANR](https://anr.fr/Project-ANR-21-CE23-0038)). In 2021, I obtained the jointly Master's degree in Computer Science, specializing in Data Science and Engineering at Eurecom and Institut Mines-Télécom, France. In 2018, I obtained the Bachelor's degree in Electronics and Telecommunications at University of Engineering and Technology, Vietnam National University, Hanoi, Vietnam (UET-VNU). 
 
-My research interest is Graph Learning and Graph Representation Learning, Statistical Signal Processing, Optimiztion and Machine Learning, with applications to time-series data (financial, EEG, etc.,). You can find my science blog posts via [Blog Posts](https://chionanthusretusus.github.io/thuhaphi.github.io//year-archive/), where aforementioned research interests are randomly discussed as throughoutly as possible.
+My research interest is Graph Learning and Graph Representation Learning, Statistical Signal Processing, Optimiztion and Machine Learning, with applications to time-series data (financial, EEG, etc.,). You can find my science [blog posts](https://chionanthusretusus.github.io/thuhaphi.github.io//year-archive/), where aforementioned research interests are randomly discussed as throughoutly as possible.
 
 <u> Contact me via email: <strong>phithuha9696@gmail.com</strong>. </u> 
 
