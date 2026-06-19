@@ -19,7 +19,7 @@ Skills
 ======
 * Research
 * Statistics & Optimization 
-* Data Processing, Structures and Algorithm
+* Data Processing, Structures and Algorithms
 * Programming & System Design
 
 Publications
