@@ -12,7 +12,7 @@ In 2026, I obtained the PhD's degree in Computer Engineering and Signal Processi
 
 My research interest is Graph Learning and Graph Representation Learning, Statistical Signal Processing, Optimiztion and Machine Learning, with applications to time-series data (financial, EEG, etc.,). You can find my science blog posts via [Blog Posts](https://chionanthusretusus.github.io/thuhaphi.github.io//year-archive/), where aforementioned research interests are randomly discussed as throughoutly as possible.
 
-<u> Contact me via email: <strong>phithuha9696@gmail.com</strong> for any matter related to research. </u> 
+<u> Contact me via email: <strong>phithuha9696@gmail.com</strong>. </u> 
 
 News
 ======
