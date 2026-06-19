@@ -17,8 +17,8 @@ Education
   
 Skills
 ======
-* Research
 * Statistics & Optimization 
+* Machine Learning 
 * Data Processing, Structures and Algorithms
 * Programming & System Design
 
