@@ -18,7 +18,8 @@ Education
 Skills
 ======
 * Research
-* Statistics & Optimization
+* Statistics & Optimization 
+* Data Processing, Structures and Algorithm
 * Programming & System Design
 
 Publications
@@ -43,5 +44,6 @@ Grants and Awards
 
 Academic Service
 ======
+* Reviewers: IEEE Statistical Signal Processing (SSP) Workshop & IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
 * Member, IEEE Student Member
-* Reviewer, IEEE Statistical Signal Processing (SSP) Workshop & IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
+  
