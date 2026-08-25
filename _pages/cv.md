@@ -42,8 +42,9 @@ Grants and Awards
 * 2021: Research grant from the Monaco Government for a tsunami simulation project
 * 2019: Master’s scholarship from Institut Mines-Télécom and EURECOM, France
 
-Academic Service
+Academic Services
 ======
-* Reviewers: IEEE Statistical Signal Processing (SSP) Workshop & IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
-* Member, IEEE Student Member
+* Reviewers of Top-tier conferences: IEEE Statistical Signal Processing (SSP) Workshop, IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
+* IEEE Student Member
+* Seminar Organizer, Supervision of Bachelor students, University of Engineering and Technology, Vietnam National University
   
