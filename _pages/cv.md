@@ -20,7 +20,7 @@ Working experience
 ======
 * 06/2018 - 12/2018: Machine Learning Engineer, Topica Edtech Group, Hanoi, Vietnam
 * 01/2019 - 07/2019: Machine Learning Engineer, Cinnamon AI Lab, Hanoi, Vietnam
-* 12/2021 - 09/2022: Machine Learning Research, supervised by Dr Thai Son Mai, Queen's University Belfast, United Kingdom
+* 12/2021 - 09/2022: Machine Learning Research (Remote), supervised by Dr Thai Son Mai, Queen's University Belfast, United Kingdom
   
 Skills
 ======
