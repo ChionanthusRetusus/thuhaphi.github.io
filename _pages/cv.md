@@ -14,7 +14,6 @@ Education
 * 11/2022 - 04/2026: Ph.D in Computer Enginnering and Signal Processing, Université Paris Nanterre, France
 * 09/2019 - 09/2021: M.S. in Computer Science, Eurecom & Institut Mines-Télécom, France, 2021
 * 09/2014 - 07/2018: B.S. in Electrical Engineering and Telecommunications, University of Engineering and Technology, Vietnam National University (UET-VNU), Hanoi, Vietnam, 2018
-======
 
 Working experience
 ======
