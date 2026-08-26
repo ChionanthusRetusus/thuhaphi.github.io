@@ -11,9 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Enginnering and Signal Processing, Université Paris Nanterre, France, 2026
-* M.S. in Computer Science, Eurecom & Institut Mines-Télécom, France, 2021
-* B.S. in Electrical Engineering and Telecomunications, University of Engineering and Technology, Vietnam National Univeristy (UET-VNU), Hanoi, Vietnam, 2018
+* 11/2022 - 04/2026: Ph.D in Computer Enginnering and Signal Processing, Université Paris Nanterre, France
+* 09/2019 - 09/2021: M.S. in Computer Science, Eurecom & Institut Mines-Télécom, France, 2021
+* 09/2014 - 07/2018: B.S. in Electrical Engineering and Telecommunications, University of Engineering and Technology, Vietnam National University (UET-VNU), Hanoi, Vietnam, 2018
+======
+
+Working experience
+======
+* 06/2018 - 12/2018: Machine Learning Engineer, Topica Edtech Group, Hanoi, Vietnam
+* 01/2019 - 07/2019: Machine Learning Engineer, Cinnamon AI Lab, Hanoi, Vietnam
+* 12/2021 - 09/2022: Machine Learning Research, supervised by Dr Thai Son Mai, Queen's University Belfast, United Kingdom
   
 Skills
 ======
