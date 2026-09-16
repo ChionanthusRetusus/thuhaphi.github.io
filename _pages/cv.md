@@ -46,5 +46,4 @@ Academic Services
 ======
 * Reviewers of Top-tier conferences: IEEE Statistical Signal Processing (SSP) Workshop, IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
 * IEEE Student Member
-* Seminar Organizer, Supervision of Bachelor students, University of Engineering and Technology, Vietnam National University
   
